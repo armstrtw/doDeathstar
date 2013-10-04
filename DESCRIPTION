@@ -1,0 +1,10 @@
+Package: doDeathstar
+Title: foreach backend for deathstar
+Version: 0.0.1
+Maintainer: Whit Armstrong <armstrong.whit@gmail.com>
+Author: Whit Armstrong <armstrong.whit@gmail.com>
+Description: foreach backend for deathstar
+License: GPL-3
+Depends: foreach, iterators, rzmq, deathstar
+URL: http://github.com/armstrtw/doDeathstar
+BugReports: http://github.com/armstrtw/doDeathstar/issues

@@ -1,0 +1,5 @@
+importFrom(foreach,
+           foreach,
+           setDoPar)
+
+export(registerDoDeathstar)
